@@ -17,6 +17,14 @@ body{
     margin-left: 20px;
 }
 
+.skrito{
+    background-color: black;
+}
+
+.skrito:hover{
+    background-color: rgb(228, 228, 228);
+}
+
 h1{
     margin: 0px;
 }
